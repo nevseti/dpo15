@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://github.com/nevseti/dpo15.git",
+  "homepage": "https://nevseti.github.io/dpo15/",
   "type": "module",
   "scripts": {
     "dev": "vite",
